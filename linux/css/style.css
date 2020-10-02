@@ -1,0 +1,38 @@
+body {
+
+  color: #0a0805;
+  font-family: 'Lobster', cursive;
+
+
+
+}
+
+h1 {
+  color: #f3aa0b;
+  font-family: 'Exo', sans-serif;
+}
+h2 {
+  color: #030630;
+  font-family: 'Anton', sans-serif;
+
+}
+
+.header {
+  padding: 0px;
+
+}
+
+#header,
+.sidebar {
+  background-color: rgb(1, 10, 10);
+  background-image: url("https://1.bp.blogspot.com/-MW-qIZhey7o/Xz3mIqh58YI/AAAAAAAAHjQ/e4ThIEt7xsQD-53sK0JUN9NSU76T9ynYgCNcBGAsYHQ/s640/ssh_www_linux.jpg");
+  padding: 1;
+  padding-top: 1px;
+  padding-right: 1px;
+  padding-bottom: 1px;
+  padding-left: 1px;
+
+}
+
+
+
